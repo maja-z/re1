@@ -1,10 +1,10 @@
-# re1
+# re1 naglowek
 
 
-plik pik
+plik 
 
 linijka
 
-liun
 
-dopisanie
+zmiana
+
