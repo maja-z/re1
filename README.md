@@ -6,6 +6,6 @@ plik
 linijka
 
 
-zmiana
+
 
 cxzcxz
