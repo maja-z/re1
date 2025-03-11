@@ -2,3 +2,5 @@
 
 
 plik pik
+
+linijka
