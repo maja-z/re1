@@ -6,3 +6,5 @@ plik pik
 linijka
 
 liun
+
+dopisanie
