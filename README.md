@@ -1,6 +1,6 @@
 # re1 naglowek
 
 
-plik pik
+plik 
 
 linijka
