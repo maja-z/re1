@@ -8,3 +8,4 @@ linijka
 
 zmiana
 
+cxzcxz
