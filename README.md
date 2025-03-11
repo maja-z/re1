@@ -5,4 +5,6 @@ plik
 
 linijka
 
+
 zmiana
+
