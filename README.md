@@ -4,3 +4,5 @@
 plik 
 
 linijka
+
+zmiana
